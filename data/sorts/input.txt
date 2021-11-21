@@ -1,0 +1,3 @@
+Prop.	X1	X2	X3
+length	8	12	44
+weight	5	45	39

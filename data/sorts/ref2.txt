@@ -1,0 +1,4 @@
+S2
+Prop.	X1
+length	10
+weight	40

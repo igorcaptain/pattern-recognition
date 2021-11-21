@@ -1,0 +1,5 @@
+Orange
+Prop.	X1	X2	X3	X4
+length	16	15	17	18
+diametr	16	15	17	18
+weight	170	160	180	200

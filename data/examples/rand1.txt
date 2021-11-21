@@ -1,0 +1,4 @@
+Prop.	x1	x2	x3	x4
+Height	178	189	167	181
+Weight	65	73	61	80
+//Visual	100	90	95	60

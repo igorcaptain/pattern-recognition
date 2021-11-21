@@ -1,0 +1,5 @@
+Banana
+Prop.	X1	X2	X3	X4
+length	17	20	19	13
+diametr	3	2.5	3.3	3.5
+weight	100	110	140	95

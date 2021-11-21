@@ -1,0 +1,4 @@
+Prop.	X1	X2	X3	X4
+length	17	10	17	20
+diametr	3	10	17	4
+weight	100	160	190	130

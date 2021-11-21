@@ -1,0 +1,4 @@
+S1
+Prop.	X1
+length	10
+weight	10
